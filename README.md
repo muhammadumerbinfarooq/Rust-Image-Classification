@@ -27,7 +27,7 @@
 <h2>Usage</h2>
 
 <ol>
-<li><p>Clone the repository: <code>git clone https://github.com/muhammadumermemon/Rust-Image-Classification.git</code></p></li>
+<li><p>Clone the repository: <code>git clone https://github.com/muhammadumerbinfarooq/Rust-Image-Classification.git</code></p></li>
 <li><p>Build the program: <code>cargo build</code></p></li>
 <li><p>Run the program: <code>cargo run</code></p></li>
 </ol>
